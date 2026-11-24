@@ -1,0 +1,6 @@
+{
+  "name": "Fox Boy's 3D Assets",
+  "description": "International marketplace of affordable, high-quality 3D models, packs, and UGC assets for Roblox Studio and game developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
